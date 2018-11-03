@@ -1,0 +1,11 @@
+{
+   "heading": "Biržas",
+   "price": {
+      "loading": "Ielāde cenu...",
+      "label": "Cena",
+      "change": "Izmaiņas pret (BTC)",
+      "circulating": "Apritē esošs daudzums",
+      "circulating-mobile": "Aprtitē"
+   },
+   "enable-javascript": "Ieslēdziet Javascript lai apskatōitu patreizējo cenu"
+}

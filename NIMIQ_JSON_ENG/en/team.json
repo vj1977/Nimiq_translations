@@ -1,0 +1,92 @@
+{
+   "heading": "Team",
+   "slogan": "The Nimiq Creators are driven by the ultimate life goal to contribute something to society that is meaningful, large scale and cutting edge. Building the Nimiq Network and Ecosystem lives up to those ambitions while the teams combined talents and skillsets secure the capacity to implement them.",
+   "video": {
+      "heading": "Have a look behind the scenes"
+   },
+   "robin": {
+      "title": "Nimiq Creator, Blockchain & Ecosystem Architect",
+      "description": "White Hat, native speaker of Javascript. Designed, developed and open-sourced <a href=\"https://thenextweb.com/insider/2015/12/27/snapdrop\" target=\"_blank\">Snapdrop</a> with more than 500’000 unique visitors since launch. Published privacy tools like Webkay to uncover personal data exposure with over 1.5 million visitors since launch. Revealed security issues through penetration testing (including Twitter and Google). Cofounded Edutech Startup collaborating with ETH Zurich and Humboldt University Berlin. Implemented the world's first prototype of a browser-based Blockchain. Unwavering passion for the full spectrum of the web platform, ranging from UI design to Progressive Web Apps, scalability, performance and security.\n"
+   },
+   "philipp": {
+      "title": "Nimiq Creator, Blockchain Tech Lead",
+      "description": "BA at the German Research Center for Artificial Intelligence. MA at Max Planck Institute for Computer Science. PhD student to Professor Michael Backes at the Information Security and Cryptography Group at CISPA (Center for Cybersecurity, Privacy and Accountability). Built award-winning software AppGuard (over 2 million downloads, German IT Security Award) and Boxify (CeBIT Innovation Award). Published in several journals and technical reports. Personal passion for Blockchain technology and making security usable without compromising.\n"
+   },
+   "elion": {
+      "title": "Nimiq Creator, Operations",
+      "description": "Cofounder, Investor and CFO of Silicon Valley based MoodLogic Inc. sold 2006 to AMG (now publicly listed ROVI). PhD (s.c.l) in Economics at Swiss University of St. Gallen and visiting PhD at Stern School of Business, NYU. Built the Silicon Paradise Tech movement in Costa Rica and SkyLoft as secluded incubation base for ideas and early stage startups. Collaboration with Carao Ventures on vetting and supporting startups and professional efforts with high social or ecological impact.\n"
+   },
+   "pascal": {
+      "title": "Blockchain Core Developer",
+      "description": "PhD student at the Information Security & Cryptography Group SU with over a dozen publications and several scholarships. Member of saarsec CTF team scoring 3rd at RuCTFE 2015, 2nd at iCTF 2015 and 2nd at RuCTF 2016. Organizing Committee Member for the 1st IEEE European Symposium on Security & Privacy. Hiring committee member for professorships at SU. Former TA for Cyber Security & Mathematics for Computer Science. Loves challenges that seem impossible and has a personal passion for distributed systems.\n"
+   },
+   "marvin": {
+      "title": "Blockchain Core Developer",
+      "description": "Presenter at 2017 IEEE Symposium on Security & Privacy in Silicon Valley. At age 14 earned first pocket money through his webpage. One of the youngest mentors at Google Summer of Code, Expert on Malware Analysis, Mobile and Web Security. Personal passion for Privacy Engineering, all matters Android and Cryptography.\n"
+   },
+   "jeff": {
+      "title": "Blockchain Core Developer",
+      "description": "Likes to talk binary to chips. The asynchronous nature of JavaScript reminds him of hardware interrupts. Expert on automatic testing frameworks, continuous delivery servers and supporting infrastructure for software projects. At his day job he codes low level software abstraction layers (SDKs) to configure the behavior of custom made Application Specific Integrated Circuits contained in enterprise class networking equipment. Deployed several BIND DNS Servers (with custom-compiled multi­threading support) at a national scale for a major ISP.\n"
+   },
+   "arthur": {
+      "title": "Blockchain Security Scientist",
+      "description": "Arthur is a Lecturer (equivalent Assistant Professor) at Imperial College London and at the Lucerne University of Applied Sciences and Arts (HSLU). He earned his PhD thesis on Blockchain Security and Privacy at ETH Zurich. He has authored several influential peer-reviewed scientific articles published at top-tier security conferences. Arthur is co-founder of the ChainSecurity AG, the first company to provide an automated formal verification tool for Ethereum smart contracts (<a href=\"https://www.securify.ch\">www.securify.ch</a>). The Team is honored to have him look over their shoulders, provide hands-on help and share valuable scientific insights as well as trigger continuous research on topics relevant for the longevity of Nimiq.\n"
+   },
+   "daniel": {
+      "title": "Ecosystem & UI/UX Developer",
+      "description": "Research assistant at German research center for AI working on intelligent User Interfaces. Computer Science Tutor and TA at SU. Passion for implementing progressive App responsive UIs and front-ends.\n"
+   },
+   "soeren": {
+      "title": "Ecosystem & UI/UX Developer",
+      "description": "Studied Aerospace Engineering in the UK. Worked as requirements engineer and developed a keen eye for detail and perfectionism. As passionate Javascript coder, Nimiq's first Hacker News post was his perfect excuse to dive head-first into blockchains and cryptocurrencies. Sören is an avid follower and active community member and created the first Nimiq blockchain explorer <a href=\"https://nimiq.watch\">nimiq.watch</a>. He now applies his problem-solving skills to user-interfaces and helps new developers get started in the Nimiq ecosystem.\n"
+   },
+   "maximilian": {
+      "title": "Ecosystem & UI/UX Developer",
+      "description": "As curious and explorative child learned what it meant to 'format' a disk the hard way by formatting the only available disk with games on it. When Internet arrived at his home, young Max started to create websites and soon had his own browser games running. Thought it would be fun to study Computer Science. Did several tutor jobs at SU including on topics cryptography and concurrent programming. Worked as full stack web developer on intranet projects for global enterprises. Max worked with and against some of the ugliest business APIs and always succeeded.\n"
+   },
+   "curd": {
+      "title": "System Virtuoso",
+      "description": "Curd is a hardware and network systems security expert at heart. He studied computer science at Saarland University, specializing early on in system administration and moving up to Head of Information Technology at CISPA (Center for Cybersecurity, Privacy and Accountability). At CISPA he managed heterogeneous hardware and software platforms across a mix of 70+ physical and virtual servers. Curd volunteered as \"Programming for Engineers\" tutor for refugees during the immigration wave that particularly challenged Germany. He has a personal passion for operating systems with a focus on security testing and reverse engineering. Several hardware security projects he worked on are strictly confidential.\n"
+   },
+   "sven": {
+      "title": "Communications, UI/UX Development, Technical Documentation",
+      "description": "Sven started hacking web apps in the mid 90ies at the age of twelve on a dial-up modem and holds a degree in computer science and media design, specializing on human-computer interaction. He is an advocate for diversity and sustainability, keen on learning, writing, and living outdoors. Worked as web technology consultant and in scientific research at the University of Trento, Italy, and the German Institute for Artificial Intelligence (DFKI). Has lived and worked in four out of seven continents.\n"
+   },
+   "tammo": {
+      "title": "UI/UX Design",
+      "description": "Co-owner ‘overnice’ branding and digital communication agency. Built experience and portfolio at Jung von Matt. Consulted the German Foreign Ministry on digital matters. Food entrepreneur. Personal passion for communication strategies and helping early stage ventures get it right.\n"
+   },
+   "julian": {
+      "title": "UI/UX Designer & Developer",
+      "description": "Co-owner ‘overnice’ branding and digital communication agency. Consulted the German Foreign Ministry on digital matters. Established a delivery platform for Subway Germany. Frontend developed the Skype Bot Developers Platform. Strong passion for both the big picture as well as attention to detail in UI and UX implementation.\n"
+   },
+   "ricardo": {
+      "title": "Community Manager",
+      "description": "Telecom Engineer by profession. Cryptocurrency evangelist by choice. Personal projects from CAD application for submarine fiber optic cable comm to developing a synthesizable model of an educational CPU. Life mission to digitalize & monitor every entropic variable in today's world led to speaking at Nagios World Conference 2014. Linux and Networking Instructor at Greencore Solutions. Responsible for running entire backbone infrastructure for largest Cable & Internet Provider in Costa Rica. Technical writer at leading WebRTC company TokBox.\n"
+   },
+   "sui-ju": {
+      "title": "Communication & Research",
+      "description": "Studied Information Management and worked at HTC headquarters in Taiwan. She is fluent in Mandarin Chinese, Taiwanese and English, while determined to become fluent in German as well. During work and travel in the US, Australia, and Europe she discovered her passion for cultures, languages, and communications. She is an optimist with love for simplicity and excited about a better future with blockchain technologies and cryptocurrencies.\n"
+   },
+   "amy": {
+      "title": "Communication & Research",
+      "note": "(on sabbatical for graduate studies)",
+      "description": "BA in Economics from UC Berkeley. Masters candidate in Data Science. Chinese market analyst. Simplicity Evangelist.\n"
+   },
+   "mauricio": {
+      "title": "Counsel & Representation",
+      "description": "Mauricio is a Costa Rican attorney and member of both the Costa Rican and American Bar Association. He is also a member of the Association of Certified Financial Crime Specialists (www.acfcs.org), a leading authority in compliance and financial regulation. He is a partner of InterTax, a legal and accounting services firm with offices in Weston, Brickell and Orlando, FL and San José, Costa Rica and has been advising crypto businesses since early 2014. Mauricio has been invited as speaker to multiple conferences regarding banking, digital payments, cryptocurrencies and regulation for crypto related businesses and compliance. His paper “The Last Decade of Cash” was presented at the Costa Rican International Information Technology Forum 2014. Mauricio is an avid surfer, a long-distance triathlete and cross country mountain biker. He is passionate about evangelizing governmental authorities on distributed ledger technology and applications for law and government and foresees public service in his future.\n"
+   },
+   "philipp-tschabold": {
+      "title": "Nutrition Magician",
+      "description": "After years of working as passionate chef and restaurateur in and around Switzerland, Philipp decided to change things up and follow a free-spirited version of his passion. He set out to create and deliver culinary experiences as a service on sail boats touching some of the most beautiful places around the globe. One of his stops introduced him to a very special part of Costa Rica where he found his love, tranquility and a new home. Philipp met one of the Nimiq team members a few years ago and upon reconnecting joined the effort allowing everybody to enjoy his balanced & healthy delights on location, supporting the Nimiq project as fundamental part of the teams productivity.\n"
+   },
+   "atua": {
+      "title": "Video Documentation & Social Media",
+      "description": "115K Youtube subscribers. Professional Vlogger, Blockchain & Cryptocurrency apprentice.\n"
+   },
+   "chris": {
+      "title": "Video Documentation & Social Media",
+      "description": "85K Youtube subscribers. Professional Vlogger, Hobby Blockchain & Cryptocurrency investor.\n"
+   }
+}

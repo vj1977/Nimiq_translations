@@ -1,0 +1,137 @@
+{
+   "heading": "Protect Yourself and Your Funds",
+   "not-a-bank": {
+      "heading": "1. Nimiq Safe is NOT a bank",
+      "intro": "Nimiq Safe is a user interface",
+      "bullets": [
+         "When you create an account on Nimiq Safe you are generating a cryptographic set of numbers: your private key (represented by 24 Account Recovery Words) and your public key (represented by the Account Number).\n",
+         "The handling of your keys happens entirely on your computer, inside your browser.",
+         "You can generate an Account Access File that contains your private key encrypted with your Passphrase and save it on your computer.\n",
+         "We never transmit, receive nor store your private key, Recovery Words, Passphrase, Account Access File or any other account information.\n",
+         "We do not charge a transaction fee.",
+         "You are simply using our interface to interact directly with the blockchain.",
+         "If you send your Account Number (public key) to someone, they can send you NIM.",
+         "If you send your private key, 24 Account Recovery Words or Account Access File with Passphrase to someone, they now have full control over your account, and thus your funds!\n"
+      ]
+   },
+   "we-cannot": {
+      "heading": "2. This means that we cannot…",
+      "bullets": [
+         "Access your account nor send your funds for you.",
+         "Recover nor change your private key.",
+         "Recover nor reset your Passphrase.",
+         "Reverse, cancel, nor refund transactions.",
+         "Freeze accounts."
+      ]
+   },
+   "responsible": {
+      "heading": "3. You and only you are responsible for your security",
+      "bullets": [
+         "Be diligent to keep your private key and associated 24 Account Recovery Words, Account Access File and Passphrase safe. Your private key might sometimes be called your mnemonic phrase, keystore file, UTC file, JSON file, wallet file.\n",
+         "If you lose your private key or Passphrase, no one can recover it.",
+         "If you enter your private key on a phishing website, all your funds will be stolen."
+      ]
+   },
+   "hardware": {
+      "heading": "4. Use a hardware wallet. Seriously!",
+      "bullets": [
+         "A hardware wallet is a very secure and at the same time user friendly way to access your funds.",
+         "The private key to your funds is stored on the hardware wallet device itself and never leaves it.",
+         "With a hardware wallet your funds are safe, even when connected to an infected or malicious computer.",
+         "If you're holding cryptocurrency worth more than a weeks salary we <strong>highly</strong> recommend to get a hardware wallet. It's worth it!\n",
+         "We recommend the <a href=\"https://www.ledgerwallet.com/products/ledger-nano-s\" target=\"_blank\">Ledger Nano S</a> which offers an official Nimiq App. Usage instructions can be found <a href=\"/tutorials/ledger\">here</a>.\n"
+      ]
+   },
+   "nimiq-com": {
+      "heading": "5. ALWAYS make sure to start at: https://nimiq.com",
+      "bullets": [
+         "Manually type this into your browser's addess bar, check the spelling and bookmark the URL.",
+         "The <strong>only authorized view</strong> that will ever ask you for your Passphrase or 24 Account Recovery Words is triggered by your security relevant actions in the Nimiq Safe that prompt the \"Nimiq Keyguard\" at <strong>https://keyguard.nimiq.com/…</strong>.\n"
+      ]
+   },
+   "cryptonite": {
+      "heading": "6. Install Cryptonite by Metacert to warn you if you are about to visit a malicious website."
+   },
+   "offline": {
+      "heading": "7. Run Nimiq Safe locally and offline."
+   },
+   "urls": {
+      "heading": "8. Do not trust messages, addresses, and URLs sent via private message. Always verify information with a secondary source!\n",
+      "bullets": [
+         "Don’t click any link related to crypto, money, banking, or any service like Dropbox, Google Drive, Gmail in any email ever.\n",
+         "And if you nevertheless ended clicking by coincidence, don’t enter any information on the page.",
+         "Never enter your private keys, 24 Account Recovery Words, Passphrases or other sensitive data on a website that was sent to or shared with you in whatever way.\n"
+      ]
+   },
+   "2fa": {
+      "heading": "9. Turn on 2FA (Two-Factor-Authentication) for everything.",
+      "bullets": [
+         "Best you do it right now, convenience is a bad excuse. We recommend Google Authenticator over Authy. Using your phone number is not recommended. Then, make sure your phone number is <strong>not</strong> tied to your Google account (you will find this in your privacy settings). Otherwise, a potential hacker can get access to your account via that number.\n",
+         "Please note: 2FA is for ensuring the security of your password on a server. For that reason, 2FA does not help using Nimiq Safe as it is client-side only.\n",
+         "Remember to backup words for these 2FA things in a safe place. It's a huge pain when your phone goes for a swim and your entire life is 2FA protected.\n"
+      ]
+   },
+   "check": {
+      "heading": "10. Double check the URL, triple check GitHub URLs",
+      "bullets": [
+         "Always check that you are in the right place by confirming the URL before entering any information. This is especially important for sites that require usernames, passwords, email addresses, private keys, or any other personal information.\n",
+         "SSL certificates do not mean a site is trustworthy, just that they bought an SSL certificate. If you are not sure about the correct URL, cross check it on trusted sites such as Reddit, Twitter, GitHub, Discord or any other place that is officially connected to the project.\n",
+         "GitHub URLs are easy to fake and it's easy not to notice that. Instead of downloading from a random URL posted on Reddit, seek out the URL on your own. Following the developers of these repositories on Twitter, friending them on Reddit, or starring them on GitHub helps to find the right URL faster.\n"
+      ]
+   },
+   "site": {
+      "heading": "11. Always verify that the site you are visiting is legit.",
+      "text": "Especially if you are about to entire your private key or download an application. What is legit? A service that people have used for a decent period of time with good results. If the URL has been registered in the last week or the site \"just launched\", err on the side of caution or avoid it for a while.\n"
+   },
+   "twitter": {
+      "heading": "12. Always verify that the Twitter account is legit!"
+   },
+   "google": {
+      "heading": "13. Search for the service name + \"scam\" or \"reviews\"",
+      "text": "Scam sites rarely last long. Value real comments by real people over a random blog. Value a collection of information over a single source. Understand that legit services will likely have a mix of positive and negative reviews over a long period of time. Scam sites typically have no one talking about them, or everyone yelling about how they got robbed, or the most perfect reviews ever. The latter one is just as red of a flag as the first one.\n"
+   },
+   "remote": {
+      "heading": "14. Don't run remote-access software (e.g. TeamViewer, VNC, …)",
+      "text": "Especially not on a computer that has your private keys because the number of security holes in these programs is atrocious. Also consider that 2FA is worthless if you give anyone access to your entire computer with all it's accounts by entering a simple password.\n"
+   },
+   "ad-blocker": {
+      "heading": "15. Install an ad blocker that actually removes all ads",
+      "text": "We recommend going with uBlock Orgin. If you are using Adblock Plus, be aware that it does not hide Google Ads from you by default. Go into your Adblock Plus settings and uncheck the box that says \"Allow some non-intrusive advertising\".\n"
+   },
+   "ads": {
+      "heading": "16. Don’t click on advertisements",
+      "text": "With or without an ad blocker, you should never click on advertisements."
+   },
+   "visited": {
+      "heading": "17. If you have accidentally visited a malicious site, clean out your recent history and auto complete.\n",
+      "text": "Having for example visited the malicious site \"krakken.com\" (with double k), clearing the recent history will safe you from typing \"kra…\" and having it autocompleted to the malicious \"krakken.com\" next time again.\n"
+   },
+   "discount": {
+      "heading": "18. No one is giving you free or discounted NIM, NET, ETH, BTC or other!",
+      "bullets": [
+         "Typical scams involve completing a survey or sharing private information. Always double check you're on a legit site before participating or entrering any information.\n",
+         "A legit group, company, or project that just finished it's token sale won't sell you tokens via direct messaging.\n",
+         "Don't rely on avatar picture suggesting a trusted source.\n"
+      ]
+   },
+   "strong": {
+      "heading": "20. Use Strong Passwords and Passphrases",
+      "bullets": [
+         "Use the spaces",
+         "Go long: 15 or more characters",
+         "Use a phrase that is personal, but unique",
+         "Switch languages within the phrase",
+         "Insert grammar mistakes on purpose",
+         "Mix in special characters",
+         "For more tips see <a href=\"https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/\"> howtogeek.com: How to create a strong password and remember it</a>\n"
+      ]
+   },
+   "unlock": {
+      "heading": "21. ONLY unlock your wallet when you want to send a transaction.",
+      "text": "Check your balance using a block explorer such as <a href=\"https://nimiq.watch\">nimiq.watch</a>."
+   },
+   "brain": {
+      "heading": "22. Lastly: use your brain",
+      "text": "Think for a moment. Don't assume, ask. Don't blindly follow, question. If something doesn't seem right, if you feel like the luckiest guy/girl on Earth, or if you find yourself asking \"I wonder why I haven't seen this on Reddit yet\", there is likely a reason.\n"
+   }
+}

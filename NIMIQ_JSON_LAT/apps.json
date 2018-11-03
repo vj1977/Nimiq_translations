@@ -1,0 +1,89 @@
+{
+   "heading": "Nimiq Apps",
+   "nimiq-apps": "Nimiq oficiālās aplikācijas",
+   "community-apps": "Kopienas aplikācijas",
+   "safe": {
+      "heading": "Safe",
+      "text": "Droši pārvaldi savu Nimiq kontu. Pārskaiti un saņem NIM, seko līdzi konta bilancei."
+   },
+   "shop": {
+      "heading": "Veikals",
+      "text": "Izmanto savus NIM lai iegūtu Nimiq suvenīrus."
+   },
+   "web-miner": {
+      "heading": "Web Miner",
+      "text": "Piedalies Nimiq tīkla nodrošināšanā un saņem NIM tokenus par atrastajiem blokiem."
+   },
+   "desktop-miner": {
+      "heading": "Desktop Miner",
+      "text": "Programma NIM rakšanai ar uzlaboto veiktspēju."
+   },
+   "nimiq-watch": {
+      "heading": "NIMIQ.WATCH",
+      "text": "Nimiq blokķēdes pārlūks"
+   },
+   "activation": {
+      "heading": "Aktivizēšana",
+      "text": "NET īpašniekiem: Aktivējiet savus NIM, apmainot tos pret NET."
+   },
+   "faucet": {
+      "heading": "Izmēģini NIM",
+      "text": "Bezmaksas NIM izdalīšana, lai tuvari tos izmēģināt"
+   },
+   "nimiq-mopsus": {
+      "heading": "Nimiq Mopsus",
+      "text": "Nimiq blokķēdes pārlūks"
+   },
+   "poolwatch": {
+      "heading": "Poolwatch",
+      "text": "Nimiq rakšanas kopu salīdzināšna un statistika"
+   },
+   "nimipet": {
+      "heading": "Nimipet",
+      "text": "Tamagotchi-līdzīga spēle, kas balstās uz Nimiq game based on Nimiq"
+   },
+   "twini": {
+      "heading": "Twini",
+      "text": "Nimiq atlīdzību bots Twitch"
+   },
+   "nimiqx": {
+      "heading": "NimiqX",
+      "text": "Nimiq web servisi un API"
+   },
+   "nimex": {
+      "heading": "Nimex",
+      "text": "Decentralized exchange to trade NIM using Ethereum"
+   },
+   "project-nimizuela": {
+      "heading": "Projekts Nimizuela",
+      "text": "Filantropisks projekts, lai veicinātu izpratni par Nimiq Venecuēlā"
+   },
+   "nimiq-funder": {
+      "heading": "Nimiq Funder",
+      "text": "Mājas lapā iekļauts maineris satura monetizācijai"
+   },
+   "nimiqwp": {
+      "heading": "NimiqWP",
+      "text": "Wordpress mainošanas plugins satura monetizēšanai"
+   },
+   "short-nim": {
+      "heading": "Short NIM",
+      "text": "URL adrešu saīsināšanas rīks ar iebūvētu maineri satura monitizēšanai"
+   },
+   "paynim": {
+      "heading": "PayNim",
+      "text": "Nosūti un saņem NIM< izmantojot e-pasta adresi"
+   },
+   "nimiq-china": {
+      "heading": "Nimiq China",
+      "text": "Nimiq veltītā mājas lapa ķīniešu valodā"
+   },
+   "discord-tip-bot": {
+      "heading": "Discord atlīdzību bots",
+      "text": "Nimiq atlīdzibu bots Discord programmai"
+   },
+   "reddit-tip-bot": {
+      "heading": "Reddit atlīdzību bots",
+      "text": "Nimiq atlīdzību bots Reddit programmai"
+   }
+}

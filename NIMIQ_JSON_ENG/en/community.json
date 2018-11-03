@@ -1,0 +1,10 @@
+{
+   "heading": "Nimiq Social",
+   "community": "Community",
+   "blog": "Blog",
+   "newsletter": {
+      "label": "Newsletter",
+      "enter": "Enter email",
+      "submit": "Submit"
+   }
+}

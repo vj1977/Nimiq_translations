@@ -1,0 +1,38 @@
+{
+   "subheading": {
+      "a": "Droši pārvaldi savu Nimiq kontu.",
+      "b": "Sūti un saņem NIM, apskati atlikumu.",
+      "b-mobile-large": "Sūti un saņem NIM."
+   },
+   "social": "Sociālie tīkli",
+   "description": {
+      "heading": "Neapturāmā blokķēde",
+      "paragraphs": [
+         "Nimiq blokķēde ir izveidota lai padarītu itin visu vienkāršu.",
+         "Nimiq mērķis ir kļūt par aims to be the vislabāko un visvienkārško decentralizēto maksājumu protokolu un ekosistēmu.",
+         "Projekts apvieno sevī jāunākus sasniegumus blokčeina un web tehnoloģiju jomā.",
+         "Nano klients tiek sasinhronizēts dažās sekundēs. Nimiq ir balstīts uz interneta pārlūku un to nav jāinstalē."
+      ]
+   },
+   "tech": "Tehnoloģija",
+   "miner": {
+      "heading": "Maineris",
+      "description": "Piedalies Nimiq tīkla nodrošināšanā un saņem NIM tokenus par atrastajiem blokiem.",
+      "description-mobile": "Piedalieties Nimiq tīklā saņem NIM par blokiem."
+   },
+   "exchanges": "Biržas",
+   "security": "Drošība",
+   "activation": {
+      "heading": "Aktivizēšana",
+      "description": "NET īpašniekiem: Aktivējiet savus NIM, apmainot tos pret NET.",
+      "description-mobile": "NET īpašniekiem: Aktivējiet savus NIM."
+   },
+   "about": "Par",
+   "bottom-notification": {
+      "content": "2018. gada 14. oktobris ir pēdējais datums NIM aktivizēšanas veikšanai.",
+      "countdown": {
+         "day-left": "Dienas atlikušas",
+         "days-left": "Dienas ir atlikušas"
+      }
+   }
+}

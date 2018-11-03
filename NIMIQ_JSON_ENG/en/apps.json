@@ -1,0 +1,93 @@
+{
+   "heading": "Nimiq Apps",
+   "nimiq-apps": "Apps by Team Nimiq",
+   "community-apps": "Community Apps",
+   "safe": {
+      "heading": "Safe",
+      "text": "Securely manage your Nimiq accounts. Send and receive NIM, view balances."
+   },
+   "shop": {
+      "heading": "Shop",
+      "text": "Use your NIM to get Nimiq Swag."
+   },
+   "web-miner": {
+      "heading": "Web Miner",
+      "text": "Participate in securing the Nimiq Network and get NIM for mined blocks."
+   },
+   "desktop-miner": {
+      "heading": "Desktop Miner",
+      "text": "Mining client with improved performance."
+   },
+   "nimiq-watch": {
+      "heading": "NIMIQ.WATCH",
+      "text": "Nimiq Blockchain Explorer"
+   },
+   "activation": {
+      "heading": "Activation",
+      "text": "For NET HOLDERS: enter process to activate your NIM from NET."
+   },
+   "faucet": {
+      "heading": "Faucet",
+      "text": "A faucet donating NIM to play around with"
+   },
+   "nimiq-mopsus": {
+      "heading": "Nimiq Mopsus",
+      "text": "Nimiq Blockchain Explorer"
+   },
+   "poolwatch": {
+      "heading": "Poolwatch",
+      "text": "Nimiq pool comparison and stats"
+   },
+   "nimipet": {
+      "heading": "Nimipet",
+      "text": "Tamagotchi-like game based on Nimiq"
+   },
+   "twini": {
+      "heading": "Twini",
+      "text": "Nimiq tip bot for Twitch"
+   },
+   "nimiqx": {
+      "heading": "NimiqX",
+      "text": "Nimiq web services and API"
+   },
+   "nimex": {
+      "heading": "Nimex",
+      "text": "Decentralized exchange to trade NIM using Ethereum"
+   },
+   "project-nimizuela": {
+      "heading": "Project Nimizuela",
+      "text": "Philanthropic project to raise awareness about Nimiq in Venezuela"
+   },
+   "coinmiq": {
+      "heading": "Coinmiq",
+      "text": "Embeddable website miner for content monetization"
+   },
+   "nimiq-funder": {
+      "heading": "Nimiq Funder",
+      "text": "Embeddable website miner for content monetization"
+   },
+   "nimiqwp": {
+      "heading": "NimiqWP",
+      "text": "Wordpress mining plugin for content monetization"
+   },
+   "short-nim": {
+      "heading": "Short NIM",
+      "text": "URL shortener with integrated miner for content monetization"
+   },
+   "paynim": {
+      "heading": "PayNim",
+      "text": "Send and receive NIM via email address"
+   },
+   "nimiq-china": {
+      "heading": "Nimiq China",
+      "text": "Chinese website dedicated to Nimiq"
+   },
+   "discord-tip-bot": {
+      "heading": "Discord Tip Bot",
+      "text": "Nimiq tip bot for Discord"
+   },
+   "reddit-tip-bot": {
+      "heading": "Reddit Tip Bot",
+      "text": "Nimiq tip bot for Reddit"
+   }
+}

@@ -1,0 +1,93 @@
+{
+   "heading": "Разработки Nimiq",
+   "nimiq-apps": "Разработки команды Nimiq",
+   "community-apps": "Разработки сообщества",
+   "safe": {
+      "heading": "Сейф",
+      "text": "Безопасное хранение, контроль и управление счетами Nimiq"
+   },
+   "shop": {
+      "heading": "Магазин",
+      "text": "Купи сувениры Nimiq за свои NIM"
+   },
+   "web-miner": {
+      "heading": "Веб майнер",
+      "text": "Участвуй в расширении сети Nimiq и получай вознаграждение за найденные блоки в монетах NIM"
+   },
+   "desktop-miner": {
+      "heading": "Приложение для майнинга",
+      "text": "Супер быстрый майнинг монет Nimiq"
+   },
+   "nimiq-watch": {
+      "heading": "NIMIQ.WATCH",
+      "text": "Обозреватель блокчейна Nimiq"
+   },
+   "activation": {
+      "heading": "Активация",
+      "text": "Для держателей токенов NET: Начать процесс активации (обмена) ваших NET на NIM."
+   },
+   "faucet": {
+      "heading": "Раздача",
+      "text": "Получи немного NIM для ознакомления"
+   },
+   "nimiq-mopsus": {
+      "heading": "Nimiq Mopsus",
+      "text": "Обозреватель блокчейна Nimiq"
+   },
+   "poolwatch": {
+      "heading": "Poolwatch",
+      "text": "Статистика и сравнительные характеристики пулов Nimiq"
+   },
+   "nimipet": {
+      "heading": "Nimipet",
+      "text": " Игра наподобие Тамагочи, основанная на блокчейне Nimiq"
+   },
+   "twini": {
+      "heading": "Twini",
+      "text": "Nimiq тип-бот для Twitch"
+   },
+   "nimiqx": {
+      "heading": "NimiqX",
+      "text": " Веб-сервисы и API сети Nimiq"
+   },
+   "nimex": {
+      "heading": "Nimex",
+      "text": "Децентрализованная биржа для обмена между NIM/Ethereum"
+   },
+   "project-nimizuela": {
+      "heading": "Проект Nimizuela",
+      "text": "Филантропический проект для повышения узнаваемости Nimiq в Венесуеле"
+   },
+   "coinmiq": {
+      "heading": "Coinmiq",
+      "text": "Встроенный вэб-майнер для монетизации контента"
+   },
+   "nimiq-funder": {
+      "heading": "Nimiq Funder",
+      "text": "Встроенный вэб-майнер для монетизации контента"
+   },
+   "nimiqwp": {
+      "heading": "NimiqWP",
+      "text": "Плугин Wordpress для монетизации контента"
+   },
+   "short-nim": {
+      "heading": "Short NIM",
+      "text": "Сократи длину линка (URL), и монетизируй содержание со встроенным майнером"
+   },
+   "paynim": {
+      "heading": "PayNim",
+      "text": "Перечисляй и получай NIM посредством е-майла"
+   },
+   "nimiq-china": {
+      "heading": "Nimiq China",
+      "text": "Специализированный веб-сайт о Nimiq для Китая"
+   },
+   "discord-tip-bot": {
+      "heading": "Тип-бот для Discord",
+      "text": "Nimiq тип-бот для Discord"
+   },
+   "reddit-tip-bot": {
+      "heading": "Тип-бот для Reddit",
+      "text": "Nimiq тип-бот для Reddit"
+   }
+}

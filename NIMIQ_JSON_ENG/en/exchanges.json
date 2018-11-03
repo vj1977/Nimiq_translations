@@ -1,0 +1,11 @@
+{
+   "heading": "Exchanges",
+   "price": {
+      "loading": "Loading price...",
+      "label": "Price",
+      "change": "Change (BTC)",
+      "circulating": "Circulating Supply",
+      "circulating-mobile": "Circulating"
+   },
+   "enable-javascript": "Please enable Javascript to see the current price"
+}

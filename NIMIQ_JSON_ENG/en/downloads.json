@@ -1,0 +1,29 @@
+{
+   "heading": "Downloads",
+   "debianBased": "And Debian-Based Distributions",
+   "redhatBased": "And Red Hat-Based Distributions",
+   "download": "Download",
+   "hash": "Hash",
+   "signature": "Signature",
+   "signing-key": "Signing&nbsp;Key",
+   "installation": {
+      "heading": "Installation",
+      "note": "Note:",
+      "text-before": "This page describes the installation and usage of the precompiled packages provided above. For better performance, you might also consider to compile the miner\n",
+      "link": "source code",
+      "text-after": "on the machine where it is intended to be used.\n",
+      "windows": "Double click the downloaded MSI file (nimiq-v*.x64.msi) and follow the instructions during the installation process.\n"
+   },
+   "configuration": {
+      "heading": "Configuration",
+      "note": "Note:",
+      "note-text": "To run a Nimiq Full Node and receive connections from other peers you need a valid domain name and SSL certificate.\n",
+      "linux": "The configuration file for Linux is located in",
+      "windows": "On Windows systems, to access the configuration go to the Windows Start Menu and in the Nimiq folder select \"Edit Config\".\n",
+      "example": "Example Configuration File"
+   },
+   "usage": {
+      "heading": "Usage",
+      "windows": "Start the Nimiq Application from the Windows Start Menu. If the miner is enabled in the configuration file, mining will start automatically.\n"
+   }
+}

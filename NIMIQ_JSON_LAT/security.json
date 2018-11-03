@@ -1,0 +1,174 @@
+heading: Pasargā sevi un savus līdzekļus
+not-a-bank:
+  heading: 1. Nimiq Safe NAV banka
+  intro: Nimiq Safe ir lietotāja saskarne
+  bullets:
+    - >
+      Kad izveidot savu kontu Nimiq Safe aplikācija, tu izveido kriptētu ciparu komplektu:
+      tava privātā atslēga(ir 24 konta atjaunošanai paredzētie vārdi), bet tava publiskā adrese ir tava konta numurs!
+    - Atslēgu apstrāde notiek tavā datorā, precīzālk interneta pārlūkā.
+    - >
+      Tu vari uzģenerēt failu (Account Access File), kas saturēs tava konta privāto atslēgu, kas ir šifrēta ar tavu Paroli un
+     saglabāt to savā datorā.
+    - >
+      Mēs nekad neizmantojam, nesaņemam, neuzglābājam un nemaz nezin;am tavu provāto atslēgu, 24 konta atjaunošanas vārdus, paroles
+      vai jebkādu citu tava konta informāciju.
+    - Mēs neieturām komisijas maksas.
+    - Tu vienkārši izmanto saskarni, lai mijiedarbotos ar Nimiq blokķēdi.
+    - Ja tu kādam nosūti sava konta numuru (publisko atslēgu), saņēmējs var ieskaitīt tev NIM, ja vēlas.
+    - >
+      Ja tu nosūti kādam savu privāto atslēgu, tos 24 konta atjaunošanas vārdus, vai Account Access File ar parolēm,
+      tad saņēmējs spēj pilnībā pārņemt konroli pār tavu kontu, tātād kontroli pār tavu naudu!!!!!
+we-cannot:
+  heading: "2. Tas nozīmē, ka mēs nevaram…"
+  bullets:
+    - Piekļūt tavam kontam un pārskaitīt tavus līdzekļus.
+    - Atjaunot vai nomainīt tavu privāto atslēgu.
+    - Atjaunot vai nomest tavu Paroli.
+    - Atcelt, pārtraukt atmaksāt atpakaļ tevis izpildīto transakciju.
+    - Iesaldēt vai nobloķēt kontus.
+responsible:
+  heading: 3. Tu un tikai tu esi atbildīgs par savas naudas drošību
+  bullets:
+    - >
+      Pacenties glabāt savu privāto atslēgu, 24 konta atjaunošanas vārdus, Account Access File un
+      Paroles drošibā.
+      Privāto atslēgu dažreiz mēdz saukt arī par - mnemonic phrase, keystore file, UTC file, JSON file, wallet file.
+    - Ja tu pazaudē savu privāto atslēgu vai Paroli, neviens nebūs spējigs to atjaunot.
+    - Ja tu ievadīsi savu privāto atslēgu kādā no tā saucamajiem fišinga saitiem, visa tava nauda tiks nozagta!
+hardware:
+  heading: 4. Lieto fizisko maciņu (hardware wallet). Nopietni!
+  bullets:
+    - Hardware wallet ir ļoti drošs un tajā pašā laikā lietotājam ērts veids, ka nodrošināt drošu piekļuvi saviem finanšu līdzekļiem.
+    - Jūsu kontya privātā atslēga tiek glabāta šajā ierīcē (the hardware wallet) un nekad nekur citur neparādās.
+    - Ar šo ierīci tavi uzkrājumi ir drošībā pat tad, kad tu pieslēdziet blokķēdei no vīrusu inficētā datora.
+    - >
+      Ja tavā rīcībā esošo kriptovalūtu vērtība pārsniedz tavu mēneša algu, ir <strong>ļoti</strong> ieteicams
+      iegādāties fizisko maciņu (hardware wallet). Tas ir tā vērts!
+    - >
+      Mēs iesakām <a href="https://www.ledgerwallet.com/products/ledger-nano-s" target="_blank">Ledger Nano S</a>
+      kas piedāvā oficiālo Nimiq App. Lietošanas instrukcija ir atrodama <a href="/tutorials/ledger">šeit</a>.
+nimiq-com:
+  heading: "5. VIENMĒR pārliecinies, ka tu pieslēdzies pie: https://nimiq.com"
+  bullets:
+    - Manuāli ievadi adresi interneta pārlūkā, pārbaudi vai esi pareizi to ierakstījis un pieglabā šo URL pārlūka grāmatzīmēs.
+    - >
+      <strong>Vienīgā</strong> aplikācija, kas jelkad var pieprasīt ievadīt tavu paroli vai 24 konta atjaunošanas vārdus tiek izsaukta ar aplikācijas NImiq Safe darbībām ir
+       "Nimiq Keyguard" ar adresi <strong>https://keyguard.nimiq.com/…</strong>.
+cryptonite:
+  heading: 6. Uzinstalē Cryptonite no Metacert, kas informēs tevi, ja tu atvērsi inficētu vietni.
+offline:
+  heading: 7. Palaid Nimiq Safe  lokāli un bezsaitē.
+urls:
+  heading: >
+      8. Neuzticies paziņojumiem, adresēm un aicinājumiem, ko esi saņēmis privāto ziņojumu veidā no nepārbaudītiem avotiem .
+      Vienmēr pārbaudiet informāciju citos avotos!
+  bullets:
+    - >
+      Neklikšķini uz jebkādām saitēm, kas saistīti ar kripto, naudu, bankām vai jebkādu citu pakalpojumu
+      Dropbox, Google Drive, Gmail, ko tu saņem e-pastā.
+    - Ja tomēr nejauši esi atvēris šādu linku, nekad neievadi tajā personīgo informāciju.
+    - >
+      Nekad neievadi 24 atjaunošanas vārdus, Paroles un jebkādu sensitīvu un slepeno privāto informāciju
+      mājas lapās, kas tev tika atsūtītas vai nodotas no apšaubāmā veidā.
+2fa:
+  heading: 9. Izmanto dubluto autentifikāciju 2FA (Two-Factor-Authentication) visur.
+  bullets:
+    - >
+      Labāk izdari to jau tagad, nevajag atlikt uz vēlāku laiku.
+      Mēs iesakām Google Authenticator over Authy.
+      Tālruņa numura izmantošana nav ieteicama.
+      Pārliecinies, ka tavs telefona numurs <strong>nesakrīt</strong> ar Google kontam piesaistīto numuru
+      (šo var atrast privātuma uzstādījumos).
+      Pretējā gadījumā, potenciālais ļaundaris var piekļūt tavas kontam, izmantojot šo numuru.
+    - >
+      Please note: 2FA nodrošina tavas paroles aizsardzīb servera pusē.
+      Šī iemēsla dēļ, 2FA netiek lietots Nimiq Safe aplikācija, jo tā atrodas klienta pusē.
+    - >
+      Neaizmirsti pieglabāt drošā vietā 2FA atjaunošanai nepieciešamo informāciju.
+      Lai nebūtu ļoti sāpīgi pazaudējot vai sabojājot savu telefonu pazaudēt piekļuvi visam, kas tiek aizsargāts ar 2FA.
+check:
+  heading: 10. Vienmēr cītīgi pārbaudi URL un vēl rūpīgāk iečeko GitHub URLs
+  bullets:
+    - >
+      Vienmēr pārliecinies, ka esi atveris pareizo lapu, pārbaudot tās ievadīšanas pareizību.
+      Itsevišķi tas ir svarīgi mājas mājas lapuam kurās tiek ievadīti lietotāju vārdi, paroles, e-pasta adreses, privātā atslēgas
+      un cita sensitīva informācija.
+    - >
+      SSL certifikātu esamība negarantē saita uzticamību, tas nozīmē tikai un vienīgi to, ka tās īpašnieki ir nopirkuši kaut kādu SSL sertifikātu.
+      Ja tev ir šaubas par to, kāda ir pareizā adrese (URL), atrodi korektu info kādā uzticāmā avotā, piemēram
+      Reddit, Twitter, GitHub, Discord vai arī citā, ar projektu saistītā, mājas lapā.
+    - >
+      GitHub URL  adreses ir ļoti vienkārši viltot un to ir ļoti grūti pamanīt.
+      Tā vietā, lai kaut ko lejupielādētu no kaut kāda kreisā URL, kas tev pagadījās kaut kur iekš Reddit, neesi slinks atrod URL pašu spēkiem.
+      Pieseko projekta programmētājus Twitter, Reddit,
+      vai atzimē tos GitHub, tas palīdzēt tev vienmēr atrast īsto linku ātrāk.
+site:
+  heading: 11. Vienmēr pārliecinies vai mājas lapa nav feiks.
+  text: >
+      Itsevišķi ja taisies tur ievadīt savu privāto atslēgu vai lejupielādētu no tās kādu aplikāciju.
+      Kā saprast vai lapa ir īstā? Īstā lapa ir tāda, kuru cilvēki lieto bet atgādījumiem pieklājīgu laika periodu.
+      Jā mājas lapas URL ir reģistrēts vakar vai nedēļu atpakaļ un mājas lapa ir "tikko palaista",
+      uzmanies, vai vēl labāk izvairies no šādu mājas lapu apmeklēšanas kādu laiku.
+twitter:
+  heading: 12. Vienmēr pārbaudi vai tu lasi īsto Twitter kontu!
+google:
+  heading: 13. Meklē pēc projekta nosaukuma un pievieno papildus opicjas, piemēram + "scam" vai "reviews"
+  text: >
+      Krāpnieciskie portāli reti eksistē ilgi. Novērtē cik reāli ir kaut kādā blogā atstētie komentāri.
+      Nepaļaujies tikai uz vienu informācijas avotu.
+      Apzinies, ka parasti, kad cilvēki komentē reālās kompānijas vai projektus, sakrājas daudz gan pozitīvo un ne tik pozitīvu komentāru
+      ilgākā laika posmā. Krāpnieku mājas lapās parasti tiek atstāti vai nu tikai izteikti pozitīvi komentāri, vai arī komentāru nav vispār,
+      vai arī cilvēk gaudo, ka ir tikušu apzagti. Tas viss norāda, ka šo mājas lapu izmantošana nav ieteicama.
+remote:
+  heading: 14. Neizmanto attālināto piekļuvi nodrošinošas programmas, tādas kā TeamViewer, VNC u.c.
+  text: >
+    Jo sevišķi uz datoriem, kur tu glābā savu kontu privātās atslēgas,
+    jo drošību caurumu šādās programmās ir vienkārši milzīgs.
+    Pievērs uzmanību, ka dubultā autentifikācija 2FA būs bezspēcīga, ja tu atļauj piekļūt tavam datoram, kurā ir visa tava informācija, vienkārši ievadot paroli.
+ad-blocker:
+  heading: 15. Uzinstalē reklāmu bloķētāju
+  text: >
+    Mēs iesākam uBlock Orgin.
+    Ja tu izmanto Adblock Plus, zini, ka tas pēc noklusējuma nebloķē Google Ads.
+    Atver sava Adblock Plus uzstādījumus un no;ņemt atzīmi lodziņā ar nosaukumu "Allow some non-intrusive advertising".
+ads:
+  heading: 16. Never vaļā reklāmas
+  text: Ar vai bez uzstādītā reklāmas bloķētāja, tev nevajadzētu jebkad vert vaļā reklāmas bannerus.
+visited:
+  heading: >
+    17. Ja tu nejauši nokļuvi inficētā mājas lapā,  nodzēs pēdējo apmeklējumu vēsturi un auto complete formas šai vietnei.
+  text: >
+    Tādā veidā, pēc krāpnieciskās vietnes "krakken.com" (ar dubulto k) apmeklējuma,
+    vēsturēs un autocomplete izdzēšana citreiz pasargās tevi no atkārtotās nokļušanas šajā lapā tad, kad tu ievadīsi adresi, kas sākas 
+    ar "kra…" autocomplete automātiski piespēlēs tev nepareizo adresi "krakken.com".
+discount:
+  heading: 18. Neviens nekur un nekad nedala bezmaksas vai ļoti lētos NIM, NET, ETH, BTC vai citas kriptovalūtas!
+  bullets:
+    - >
+      Parasti krāpnieciskās shēmas satur sevī kaut kādas aptaujas, bet aptaujas beigās tiek pieprasīts ievadīt personīgo informāciju.
+      Vienmēr pārliecinies vai apmeklē īsto vietni pirms ievadīt tajā jebkādu informāciju.
+    - >
+      Patiesā kompānija, grupa vai projekts nekad ar privātiem ziņojumiem nepiedāvās tev nopirkt tās tokenus pēc ICO beigām.
+    - >
+      Uzpaļaujies uz avatara bildi, to elementāri vari izmantot krāpnieki.
+strong:
+  heading: 20. Izmantojiet drošās paroles
+  bullets:
+    - Ieklauj savās parolēs "atstarpi"
+    - Padari savas paroles garas: vismaz 15 un vairāk simbolu
+    - Izmanto person[igi saistošās, bet tajā pat laikā unikālās frāzes
+    - Izmanto dažādas valodas vienas un tās pašas frāzes ietvaros
+    - Apzināti iekļauj parolēs gramatiskās kļūdas
+    - Noteikti izmanto arī speciālos simbolus
+    - >
+      Vairāk padomu ir atrodami šajā rakstā <a href="https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/">
+      howtogeek.com: How to create a strong password and remember it</a>
+unlock:
+  heading: 21. ATBLOĶĒ savu kontu tikai tad, kad tiešām vēlies beikt pārskaitījumu.
+  text: Seko sava konta atlikumam un transakcijām izmantojot NImiq blokķēdes pārlūku, piemēram <a href="https://nimiq.watch">nimiq.watch</a>.
+brain:
+  heading: 22. Un visbeidzot: ieslēdz savas smadzenes
+    Padomā mirkli. Nepaļaujies, pajautā. Neseko akli, uzdod jautājumu. Jau kaut kas liekas aizdomīgs, vai nekorekts,
+    ja pēkšņi esi sajūties vislaimīgākais cilvēks uz Pasaules, vai arī ja pieķers sevi domājot -
+    kāpēc es agrāk neatradu šo informāciju tepat iekš Reddit..... Acīmredzot tam ir kaut kāds, noteikts iemesls. 

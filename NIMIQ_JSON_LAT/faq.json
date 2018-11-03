@@ -1,0 +1,146 @@
+{
+   "heading": "FAQ",
+   "top": {
+      "heading": "Top Questions",
+      "nim": {
+         "question": "What are NIM?",
+         "answer": "NIM is the token of the Nimiq Mainnet Blockchain. A total of 2.52 billion NIM were created in the Genesis Block during the Launch of the Mainnet. The minimum unit of NIM is called a satoshi and 100,000 satoshis equal 1 NIM. After the Launch of the Mainnet, NIM are rewarded to miners as described below in the technical section of this FAQ.\n"
+      },
+      "testnet": {
+         "question": "What are Testnet NIM and what is the Testnet for?",
+         "answer": "The <a href=\"https://nimiq-testnet.com\" target=\"_blank\">Testnet</a> is where new features get released and tested first before they hit the <a href=\"https://nimiq.com\" target=\"_blank\">Mainnet</a>. The NIM you mine or transact in the Testnet are Testnet NIM. <strong>Testnet NIM are not compatible with the Mainnet and are for testing only.</strong>\n"
+      },
+      "net": {
+         "question": "What are NET?",
+         "answer": "NET is an ERC-20 (Ethereum-based) token distributed during the <a href=\"https://medium.com/nimiq-network/token-sale-finalized-closing-analysis-ee5b92d0cd9c\" target=\"_blank\"> contribution period</a>. NET will be replaced with Nimiq (NIM) until up to 6 months after the launch of the Nimiq Mainnet. A total of 10'500'000 NET were distributed.\n"
+      },
+      "where-net": {
+         "question": "Where are NET available?",
+         "answer": "NET are available at <a href=\"https://liqui.io/#/exchange/NET_ETH\" target=\"_blank\">Liqui</a> and <a href=\"https://etherdelta.github.io/#NET-ETH\" target=\"_blank\">EtherDelta</a>.\n"
+      },
+      "net-nim": {
+         "question": "How does NET become NIM?",
+         "answer": "NIM is the token of the Nimiq Blockchain. You can activate NIM using the <a href=\"https://activation.nimiq.com\" target=\"_blank\">Activation Tool for NET Holders</a> on https://nimiq.com. The Activation process will be open for up to 6 months after the launch of the Nimiq Mainnet.\n"
+      },
+      "ledger": {
+         "question": "Is NIM supported by hardware wallets?",
+         "answer": "Yes, there is an official app for the <a href=\"https://www.ledgerwallet.com/products/ledger-nano-s\" target=\"_blank\">Ledger Nano S</a>. Usage instructions can be found <a href=\"/tutorials/ledger\" target=\"_blank\">here</a>.\n"
+      }
+   },
+   "about": {
+      "heading": "About Nimiq",
+      "nimiq": {
+         "question": "What is Nimiq?",
+         "answer": "Nimiq is a browser-based Blockchain designed for simplicity. Nimiq’s reason for existence is to bring the benefits of blockchain technology to the mainstream. To achieve that purpose Nimiq has been built from the ground up to address and break the barriers to entry that inhibit the mainstream adoption of blockchain technologies. Nimiq is encompassed by a strong philanthropic mindset, it will always remain open-source and community-driven.\n"
+      },
+      "differences": {
+         "question": "What sets Nimiq apart from Bitcoin, Ethereum et al?",
+         "intro": "Main differentiators:",
+         "bullets": [
+            "Nimiq's single purpose is to solve the payment protocol problem. Simple, fast and secure payments from User A to User B.\n",
+            "Browser-based and installation-free since it is written in Javascript ES6 and communicates via WebSockets + WebRTC for connecting to the network without a trusted third party.\n",
+            "Light clients allow you to establish quick Blockchain consensus in seconds.\n",
+            "Goal of near instant transactions via off-chain transactions.",
+            "Long-term commitment and good cause contribution embedded into the Genesis-Block."
+         ]
+      },
+      "learn": {
+         "question": "Where can I learn more about Nimiq?",
+         "answer": "Official information is published on our <a href=\"https://medium.com/nimiq-network\" target=\"_blank\">Blog</a> and <a href=\"https://twitter.com/nimiq\" target=\"_blank\">Twitter</a> account. Additionally, we have a <a href=\"https://www.youtube.com/c/nimiq\" target=\"_blank\">YouTube Channel</a>. You can also join our <a href=\"https://discord.gg/cMHemg8\" target=\"_blank\">Discord</a> and <a href=\"https://t.me/Nimiq\" target=\"_blank\">Telegram</a> groups to be a part of our fast growing community. If you still want more, you can also find us on <a href=\"https://www.reddit.com/r/Nimiq/\" target=\"_blank\">Reddit</a> and <a href=\"https://steemit.com/@Nimiq\" target=\"_blank\">Steemit</a>.\n"
+      }
+   },
+   "apps": {
+      "heading": "Nimiq Ecosystem Apps",
+      "terminology": {
+         "question": "What is the terminology used by the Ecosystem Apps?",
+         "bullets": [
+            "NIM: Abbreviation for Nimiq blockchain token/coin.",
+            "Nimiq Account: IBAN style 36 character Account address/number for one particular Account on the Nimiq blockchain.\n",
+            "Nimiq Safe: Digital vault containing one or more Nimiq Accounts for storing larger amounts of NIM, „desktop first“ design with high security features and lower transaction frequency in mind.\n",
+            "Nimiq Wallet: Digital wallet containing one or more Nimiq Accounts for day-to-day NIM transactions, „mobile first“ design for ease-of-use and more frequent payment routines.\n",
+            "Account Access File: PNG format file that contains the encrypted private key for its corresponding Nimiq Account.\n",
+            "Account Recovery Words: 24 word list from which the private key and its corresponding Nimiq Account can be recovered. <strong>Not</strong> to be confused with the 24 Ledger Nano S Recovery Words.\n",
+            "Passphrase: Minimum 10 character user-defined sentence/phrase used to encrypt and decrypt the Account Access File and private key for the corresponding Nimiq Account. This allows Account import/export from its Access File and authorizing/signing transactions involving the corresponding Nimiq Account.\n",
+            "Nimiq Identicon: Visual representation of your Nimiq Account number. The Identicon is close to unique for each Account and is meant to help with more easily identifying your own different Accounts as well as destination Accounts relevant to your transactions. For security reasons always reconfirm the actual Account numbers before authorizing a transaction.\n"
+         ]
+      },
+      "switch": {
+         "question": "If I open a Nimiq Ecosystem Application in different browsers will I get different Wallets?",
+         "answer": "Yes, each time you open Nimiq Applications with a new browser, created wallets (Private/Public keys) will be stored locally in that browser. In the Nimiq Safe, wallets can be imported and exported, thus, can be exported from one into another browser. If using a Ledger Nano S, the keys are stored on the Ledger and the device can directly be used on multiple computers/browsers without the need to export the keys.\n"
+      },
+      "safe": {
+         "question": "What is the Nimiq Safe?",
+         "answer": "The Nimiq Safe is a free and open-source, client-side user interface. It allows you to interact directly with the Nimiq blockchain while remaining in full control of your keys and your funds. You and only you are responsible for your security.\n"
+      },
+      "safety": {
+         "question": "What do I have to keep in mind to use the Ecosystem Apps in a safe way?",
+         "bullets": [
+            "The most secure way to access your funds is via the official Nimiq app for the <a href=\"/tutorials/ledger\" target=\"_blank\">Ledger Nano S hardware wallet</a>. Although the use of a hardware wallet is not a necessity, it is highly recommended as it helps prevent typical phishing attacks and theft by infected computers.\n",
+            "Phishers might send you a message with a link to a website that looks just like the Nimiq Safe, PayPal, or your online banking, but it is not the real website. They steal your information and then steal your money.\n",
+            "We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key.",
+            "Always validate the URL: <code>https://safe.nimiq.com</code>",
+            "Manually type this in the URL address bar of your browser, check spelling and bookmark the URL. Do not trust links sent to you via email, Slack, Reddit, Twitter, etc. Always navigate directly to <code>https://nimiq.com</code> before you enter any security relevant information.\n",
+            "The only authorized view that will ever ask you for your Pass Phrase, PIN or 24 Recovery Words is triggered by your security relevant account actions in the Nimiq Safe that prompt the: <strong>\"Nimiq Keyguard\"</strong> at <code>https://keyguard.nimiq.com/</code>...\n",
+            "Install an ad blocker and do not click on ads in your search engine (e.g. Google)."
+         ]
+      },
+      "backup": {
+         "question": "What's the best way to backup my access information?",
+         "answer": "Make a backup of your 24 Recovery Words and Pass Phrase. Do NOT just store them on your computer. Print or write them down on a piece of paper. Store one ore more copies of this paper in one or more secure and private physical locations. A backup is not useful if it is destroyed by a fire or flood along with your laptop. Do not store your recovery words in Dropbox, Google Drive, or other cloud storage. If such account were to be compromised, your funds will be stolen.\n"
+      },
+      "lost": {
+         "question": "What happens if I lose my access information?",
+         "answer": "If you lose your Recovery Words, Pass Phrase or PIN, they are gone forever. <strong>Don’t lose them. Make sure you have a backup.</strong>\n"
+      },
+      "clear-cookies": {
+         "question": "Is the balance of my account cleared if I delete my cookies?",
+         "answer": "No, the balance of your account is not stored in your browser but in the Nimiq blockchain. The browser only stores the access to the funds for you. This access is stored in the browser offline data. Thus, the access gets only lost when the browser deletes the offline data, not by deleting the cookies. Nonetheless, it's important that your always backup your account access via Account Access File or 24 Recovery Words.\n"
+      },
+      "ledger-compatible": {
+         "question": "Are the Nimiq Account Recovery Words compatible with the Ledger Nano&nbsp;S Recovery Words?",
+         "answer": "No, they are not compatible by design. The idea of a hardware wallet is that it prevents access to the private key from the computer, especially from infected computers. Thus, neither the Ledger Nano S Recovery Words should be imported to your computer, nor should the the Recovery Words generated on your computer be imported into the Ledger. If you loose your Ledger Nano S, the recommended way to recover your funds from your Ledger Recovery Words is to import the Ledger Recovery Words into another Ledger Nano S device.\n"
+      }
+   },
+   "technical": {
+      "heading": "Technical",
+      "browser-only": {
+         "question": "Is Nimiq browser-only?",
+         "answer": "Not at all, we designed Nimiq to be able to run in your browser without extra software. That doesn’t mean it works only in your browser. You can use any device that supports Node.js to run a <a href=\"#downloads\">Backbone Client</a>.\n"
+      },
+      "pos": {
+         "question": "What are your thoughts on Proof of Stake?",
+         "answer": "We are very excited about the technology but we feel it still needs more research and testing before being introduced into the worldwide environment. We are considering its use in a later stage of the Nimiq Blockchain but this is yet to be decided.\n"
+      },
+      "parameters": {
+         "question": "What are the parameters of the Nimiq Blockchain?",
+         "bullets": [
+            "Block time: 1 minute (inspired by the results of \"On the Security and Performance of Proof of Work Blockchains\").\n",
+            "Total supply: 21 billion tokens divisible by 10⁵ which accounts for a total suply in smallest units, called satoshi, of 21e14, identical to Bitcoin.\n",
+            "Block reward: starts with 4965 NIM and is reduced in a curved fashion (inspired in Monero and Cryptonote) proportional to the block height and remaining Nimiq supply. The reward remains constant once a certain block height is reached.\n",
+            "Max Block size: 140 kB",
+            "Difficulty adjustment: Every 120 blocks."
+         ],
+         "more": "You can learn more about our technical parameters in our <a href=\"https://nimiq-network.github.io/developer-reference/\" target=\"_blank\">Developer Reference</a>.\n"
+      }
+   },
+   "mining": {
+      "heading": "Mining",
+      "backbone": {
+         "question": "Can I mine with a Backbone Client?",
+         "answer": "Yes, any server or device that runs Node.js can mine Nimiq."
+      },
+      "setup": {
+         "question": "How can I get the best setup to mine?",
+         "answer": "Nimiq Blockchain uses Argon2 as PoW algorithm. Argon2 was designed and optimized to ensure that GPUs or similar processors won't be able to hash a lot faster than regular CPUs. This is achieved by binding mining speed to memory and cache latency instead of processing power, resulting in reduced power consumption on modern CPUs. The best hardware for mining Argon2 is unknown at this point, as optimized miners have not been developed yet.\n"
+      },
+      "same-wallet": {
+         "question": "Can I use the same wallet/account on more than one device?",
+         "true": "Yes:",
+         "bullets": [
+            "If the account was created using the Nimiq Safe, Nimiq Web Miner or Nimiq Keyguard, you just need to export your account access using the Nimiq Safe and import it into the Nimiq Safe on any other Browser.\n",
+            "If using a Ledger Nano S hardware wallet, the account is stored on the hardware wallet and can be used on multiple computers without the need to export it first.\n",
+            "To mine to the same account using the node miner, it is sufficient to specify the account address in the miner configuration and thus, you don't necessarily have to import the account access.\n"
+         ]
+      }
+   }
+}

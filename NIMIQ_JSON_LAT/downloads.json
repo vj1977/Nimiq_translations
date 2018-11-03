@@ -1,0 +1,29 @@
+{
+   "heading": "Lejupielādes",
+   "debianBased": "Debian distribūcija",
+   "redhatBased": "Red Hat distribūcija",
+   "download": "Lejupielādēt",
+   "hash": "Hašs",
+   "signature": "Paraksts",
+   "signing-key": "Paraksta atslēga",
+   "installation": {
+      "heading": "Instalēšana",
+      "note": "Piezīmes:",
+      "text-before": "Šajā lapā aprakstīta iepriekš sagatavoto iepakojumu uzstādīšana un izmantošana. Lai sasniegtu maksimālu veiktspēju, ieteicams pašrocīgi nokompilēt maineri\n",
+      "link": "Pirms kods",
+      "text-after": "uz ierīces, kur to paredzēts lietot.\n",
+      "windows": "Divreiz uzklikšķini uz liejupielādēto MSI failu (nimiq-v*.x64.msi) un seko instalācijas procesa instrukcijām.\n"
+   },
+   "configuration": {
+      "heading": "Konfigurēšana",
+      "note": "Piezīmes:",
+      "note-text": "Lai palaistu Nimiq Full un nodibinātu savienojumus ar pārējiem pīriem Tev nepieciešams korekts domēna vŗads un SSL sertifikāts.\n",
+      "linux": "The configuration file for Linux is located in",
+      "windows": "Windows sistēmās, atveriet Start menu un NImiq mapē izvēlaties \"Edit Config\".\n",
+      "example": "Configurācijas faila piemērs"
+   },
+   "usage": {
+      "heading": "Pielietojums",
+      "windows": "NImiq aplikācija ir palaižāma no Windows Start Menu. Ja maineris konfigurācijas failā ir iespējots, rakšanas process tiks uzsākts automātiski.\n"
+   }
+}

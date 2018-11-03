@@ -1,0 +1,11 @@
+{
+   "heading": "Биржи",
+   "price": {
+      "loading": "Загружается цена...",
+      "label": "Цена",
+      "change": "Динамика к (BTC)",
+      "circulating": "Кол-во монет в обращении",
+      "circulating-mobile": "В обращении"
+   },
+   "enable-javascript": "Включите Javascript для того, чтобы получить информацию об актуальной цене"
+}

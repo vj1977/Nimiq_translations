@@ -1,0 +1,38 @@
+{
+   "subheading": {
+      "a": "Securely manage your Nimiq accounts.",
+      "b": "Send and receive NIM, view balances.",
+      "b-mobile-large": "Send and receive NIM."
+   },
+   "social": "Social",
+   "description": {
+      "heading": "Unleashing Blockchain",
+      "paragraphs": [
+         "Nimiq is the blockchain designed for simplicity.",
+         "Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol & ecosystem.",
+         "The project combines state-of-the-art blockchain research and web technology.",
+         "Nano clients synchronize in seconds. Nimiq is browser-based and installation-free."
+      ]
+   },
+   "tech": "Tech",
+   "miner": {
+      "heading": "Miner",
+      "description": "Participate in securing the Nimiq Network and get NIM for mined blocks.",
+      "description-mobile": "Participate in the network and get NIM for mined blocks."
+   },
+   "exchanges": "Exchanges",
+   "security": "Security",
+   "activation": {
+      "heading": "Activation",
+      "description": "For NET HOLDERS: enter process to activate your NIM from NET.",
+      "description-mobile": "For NET HOLDERS: process to activate your NIM from NET."
+   },
+   "about": "About",
+   "bottom-notification": {
+      "content": "The deadline for NIM Activation is October 14",
+      "countdown": {
+         "day-left": "Day Left",
+         "days-left": "Days Left"
+      }
+   }
+}
